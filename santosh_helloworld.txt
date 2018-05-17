@@ -1,9 +1,4 @@
 this is my first hello world git checkin 
 
 
-bye
-tata
-
-
-
-tc
+delete few records and updated the code to make sure bugs are fixed.
